@@ -1,0 +1,15 @@
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\bin\Debug\net6.0\dz_C-_sem01.exe
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\bin\Debug\net6.0\dz_C-_sem01.deps.json
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\bin\Debug\net6.0\dz_C-_sem01.runtimeconfig.json
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\bin\Debug\net6.0\dz_C-_sem01.dll
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\bin\Debug\net6.0\dz_C-_sem01.pdb
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.csproj.AssemblyReference.cache
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.GeneratedMSBuildEditorConfig.editorconfig
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.AssemblyInfoInputs.cache
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.AssemblyInfo.cs
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.csproj.CoreCompileInputs.cache
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.dll
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\refint\dz_C-_sem01.dll
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.pdb
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\dz_C-_sem01.genruntimeconfig.cache
+L:\Обучение GB\C#_Sem_01\dz_C-_sem01\obj\Debug\net6.0\ref\dz_C-_sem01.dll
