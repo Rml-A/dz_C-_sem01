@@ -1,20 +1,14 @@
-﻿// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+﻿// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
-// a = 5; b = 7 -> max = 7
-// a = 2 b = 10 -> max = 10
-// a = -9 b = -3 -> max = -3
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 8
 
-System.Console.Write("Введите первое число: ");
-int a = Convert.ToInt32(Console.ReadLine());
 
-System.Console.Write("Введите второе число: ");
-int b = Convert.ToInt32(Console.ReadLine());
+System.Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
 
-if (a > b)
-{
-    System.Console.WriteLine(a);
-}
-else
-{
-System.Console.WriteLine(b);
-}
+for (int i = 1; i <= number; i++)
+    if (i % 2 == 0)
+    {
+        System.Console.WriteLine(i);
+    }
